@@ -2,4 +2,4 @@
 
 This is my first repository.
 
-I am learning how to work with GitHub branches.
+I am learning GitHub on the conflict-test branch.
