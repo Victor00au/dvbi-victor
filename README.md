@@ -2,4 +2,4 @@
 
 This is my first repository.
 
-I am learning Git and version control.
+I am learning Git, version control, and branching.
